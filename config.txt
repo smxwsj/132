@@ -7,7 +7,7 @@
 # 模板消息id
 "template_id": "GottA7Gsj2YNrbiTa27z1c1ed-QYb17sZDVq_5fRuUo",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["o9MPd6s5GQBnL-erqhNGI8hVfSfk","o9MPd6iG1dKWLIj9mzTlhtdB0rhI"]
-"user": ["o9MPd6s5GQBnL-erqhNGI8hVfSfk"],
+"user": ["o9MPd6s5GQBnL-erqhNGI8hVfSfk","o9MPd6s7zQi1T5Txc4bjBXEDlvgU"],
 
 # 信息配置
 # 和风天气apikey
@@ -19,7 +19,7 @@
 #城市下雨概率和建议
 "city": "新郑市", # 不能直接写省份
 # 生日1
-"birthday1": {"name": "小玖ʚ🧸ྀིɞ", "birthday": "r2002-04-16"},
+"birthday1": {"name": "小北", "birthday": "r2004-05-09"},
 # 生日2
 "birthday2": {"name": "小史同学", "birthday": "r2002-08-26"},
 # 在一起的日子，格式同上
