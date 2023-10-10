@@ -1,13 +1,13 @@
 {
 # 公众号配置
 # 公众号appId
-"app_id": "wxb21fb6957506e028",
+"app_id": "wxfac5b8528b31c982",
 # 公众号appSecret
-"app_secret": "f0f527bc1119fb37bff931d7c5bd36f2",
+"app_secret": "4e202f90b3d664fc7882588a166ba749",
 # 模板消息id
 "template_id": "GottA7Gsj2YNrbiTa27z1c1ed-QYb17sZDVq_5fRuUo",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["o9MPd6s5GQBnL-erqhNGI8hVfSfk","o9MPd6iG1dKWLIj9mzTlhtdB0rhI"]
-"user": ["o9MPd6s5GQBnL-erqhNGI8hVfSfk"],
+"user": ["oTMP-6qoGUJpv6XkJHvw14KKgDgM"],
 
 # 信息配置
 # 和风天气apikey
@@ -15,15 +15,15 @@
 # 天行数据apikey
 "tianxing_api": "23c578b0c85b18c4ee568b7e561f349f",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
-"region": "晋中市",
+"region": "新乡市",
 #城市下雨概率和建议
-"city": "晋中市", # 不能直接写省份
+"city": "原阳县", # 不能直接写省份
 # 生日1
-"birthday1": {"name": "小北異❤", "birthday": "r2004-05-09"},
+"birthday1": {"name": "宋意同学❤", "birthday": "r2004-08-12"},
 # 生日2
 "birthday2": {"name": "小史同学", "birthday": "r2002-08-26"},
 # 在一起的日子，格式同上
-"love_date": "2022-09-28",
+"love_date": "2022-10-21",
 # 金句中文，如果为空，默认会读取金山的每日金句
 "note_ch": "",
 # 金句英文
